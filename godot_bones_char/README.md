@@ -1,1 +1,1 @@
-# sinus_v2
+# godot char maker based on bones on gles 2
